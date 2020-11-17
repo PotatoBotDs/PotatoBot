@@ -20,9 +20,13 @@ PotatoBot offers (non-exhaustive list):
 
 *   👻 **Fun**: `meme`, `motivation`, `coinflip`, `roast`, `soundboard` and **4** more! 
 *   🎮 **Games**: `connectfour`, `duelquiz `, `gunfight`, `horserace`, `memory` and **5** more! 
-*   🚓 **Moderation**: `setwelcomechannel`, `setmodlogchannel`, `setmuterole`, `setnick`, and **17** more! 
-*   🎵 **Music**: `play`, `skip`, `queue`, `np`, and **8** more! 
+*   👻 **Giveways**: `edit`, `end`, `reroll`, `start`
+*   🖼️ **Image**: `avatar`, `fire`, `avatarfusion`, `rip`, and **12** more!
+*   📜 **Info**: `botinfo`, `serverinfo `, `covid`, `help`, `news` and **14** more! 
 *   📈  **leveling**: `disablexp`, `progresscolor`, `setbackground`, `enablexp`, `level`
+*   🚓 **Moderation**: `setwelcomechannel`, `setmodlogchannel`, `setmuterole`, `setnick`, and **17** more! 
+*   🎵 **Music**: `play`, `skip`, `queue`, `np`, and **8** more!
+*   📱 **Phone**: `hangup`, `phonebook `, `phonecall`, `setphonechannel`
 *   👑 **Owner**: `eval`, `servers-list`
 
 

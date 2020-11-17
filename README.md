@@ -27,7 +27,6 @@ PotatoBot offers:
 *   🚓 **Moderation**: `setwelcomechannel`, `setmodlogchannel`, `setmuterole`, `setnick`, and **17** more! 
 *   🎵 **Music**: `play`, `skip`, `queue`, `np`, and **8** more!
 *   📱 **Phone**: `hangup`, `phonebook `, `phonecall`, `setphonechannel`
-*   👑 **Owner**: `eval`, `servers-list`
 
 [![Discord Bots](https://top.gg/api/widget/765811652783505418.svg)](https://top.gg/bot/765811652783505418)
 

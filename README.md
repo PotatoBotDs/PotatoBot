@@ -29,7 +29,7 @@ PotatoBot offers (non-exhaustive list):
 ### Non-customized version
 
 
-[![Discord Bots](https://top.gg/api/widget/765811652783505418.svg)](https://discordbots.org/bot/765811652783505418)
+[![Discord Bots](https://top.gg/api/widget/765811652783505418.svg)](https://top.gg/bot/765811652783505418)
 
 
 ## Links

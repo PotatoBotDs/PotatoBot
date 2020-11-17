@@ -34,6 +34,6 @@ PotatoBot offers (non-exhaustive list):
 ## Links
 
 *   [Discord](https://discord.gg/8ghncEy)
-*   [Github](https://github.com/Crib-maker/PotatoBot)
+*   [Github](https://github.com/PotatoBotDs/PotatoBot/)
 *   [Invite](https://discord.com/oauth2/authorize?client_id=765811652783505418&scope=bot&permissions=939715710)
 

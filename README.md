@@ -18,10 +18,11 @@ PotatoBot offers (non-exhaustive list):
 
 ### Many commands
 
-*   🚓 **Moderation**: `setwelcomechannel `, `setmodlogchannel `, `setmuterole `, `setnick `, and **17** more! 
+*   👻 **Fun**: `meme`, `motivation`, `coinflip`, `roast`, `soundboard` and **4** more! 
+*   🎮 **Games**: `connectfour`, `duelquiz `, `gunfight`, `horserace`, `memory` and **5** more! 
+*   🚓 **Moderation**: `setwelcomechannel`, `setmodlogchannel`, `setmuterole`, `setnick`, and **17** more! 
 *   🎵 **Music**: `play`, `skip`, `queue`, `np`, and **8** more! 
-*   👻 **Fun**: `meme`, `motivation `, `coinflip`, `roast `, `soundboard ` and **4** more! 
-*   📈  **leveling**: `disablexp `, `progresscolor `, `setbackground `, `enablexp`, `level`
+*   📈  **leveling**: `disablexp`, `progresscolor`, `setbackground`, `enablexp`, `level`
 *   👑 **Owner**: `eval`, `servers-list`
 
 
